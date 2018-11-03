@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditDistance", "EditDistance\EditDistance.csproj", "{6AB74077-5DFD-4969-8527-4B411F479D84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AB74077-5DFD-4969-8527-4B411F479D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB74077-5DFD-4969-8527-4B411F479D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB74077-5DFD-4969-8527-4B411F479D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB74077-5DFD-4969-8527-4B411F479D84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F67BDEF0-3020-46C6-B4AE-D0E43681AFBD}
+	EndGlobalSection
+EndGlobal
